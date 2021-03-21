@@ -90,6 +90,7 @@ app.put('/api/workouts/:id', async (req, res) => {
   res.json(result);
 });
 
+const PORT = process.env.PORT || 27017;
 
 // Server set 
 const mongoParams = {
@@ -99,11 +100,9 @@ const mongoParams = {
   useFindAndModify: false
 };
 
-const PORT = process.env.PORT || 3000;
-
 mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/workout', mongoParams)
   .then(() => {
     app.listen(PORT, () => {
       console.log(`==> 🌎  Listening on port ${PORT}. Visit http://localhost:${PORT} in your browser.`);
     });
-  });
+});
