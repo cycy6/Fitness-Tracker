@@ -17,9 +17,11 @@
   ## Testing
 <!-- Video link -->
 [You can watch first demo here] (https://youtu.be/su9ZmrKCr48)
+
 [You can watch second demo here] (https://youtu.be/kQT6S4TMgWc)
 
 View app via Heroku: (https://la-fitness-tracker.herokuapp.com/)
+
   ## Project License
   MIT
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
