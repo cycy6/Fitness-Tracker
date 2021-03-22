@@ -28,14 +28,3 @@ View app via Heroku: (https://la-fitness-tracker.herokuapp.com/)
   GitHub Profile: https://github.com/cycy6
   GitHub Username: cycy6
 
-
-
-
-
-
-
-
-<!-- Video link -->
-https://youtu.be/su9ZmrKCr48
-
-https://youtu.be/kQT6S4TMgWc
