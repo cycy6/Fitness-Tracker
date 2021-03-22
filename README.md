@@ -7,7 +7,7 @@
   [Contact](#Contact) 
    
   ## Project Description
-    The tracker allows to plan and record the users workout (resistance and cardio) and provides visual graphs to display the users progress. This app is built using express.js and MongoDB
+The tracker allows to plan and record the users workout (resistance and cardio) and provides visual graphs to display the users progress. This app is built using express.js and MongoDB
 
   ## Installation
 
