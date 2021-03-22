@@ -2,17 +2,16 @@
   # undefined[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Table of Contents  
   [Project Description](#Project-Description)  
-  [Installation](#Installation)  
-  [Usage](#Usage)     
+  [Installation](#Installation)       
   [License](#Project-License)  
-  [Contact](#Contact)  
+  [Contact](#Contact) 
+   
   ## Project Description
-  
+    The tracker allows to plan and record the users workout (resistance and cardio) and provides visual graphs to display the users progress. This app is built using express.js and MongoDB
+
   ## Installation
 
   mongo --version | Express.js | NPM install | HTML 5 | CSS | Javascript | Heroku |
-  ## Usage
-  The tracker allows to plan and record the users workout (resistance and cardio) and provides visual graphs to display the users progress. This app is built using express.js and MongoDB
 
   ## Testing
 <!-- Video link -->
